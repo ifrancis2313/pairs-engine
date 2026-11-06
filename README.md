@@ -7,7 +7,7 @@ A small event-driven pairs-research engine with rolling hedge ratios, spread sig
 Requires Python 3.13 or newer; tested with Python 3.13.1.
 
 ```sh
-git clone <mirror-url> pairs-engine
+git clone https://github.com/Ifrancis2313/pairs-engine.git
 cd pairs-engine
 python3 -m venv .venv
 source .venv/bin/activate
